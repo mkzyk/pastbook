@@ -1,4 +1,4 @@
-#https://atcoder.jp/contests/past202004-open/tasks/past202004_b?lang=ja
+#https://atcoder.jp/contests/past202004-open/tasks/past202004_b
 S = input()
 
 na = S.count("a")
